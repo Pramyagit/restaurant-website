@@ -29,7 +29,7 @@ Make sure your compiled CSS is included in the <head> (your framework might hand
 sample like tailwind css (class:text-3xl font-bold underline):
 <body>
   <h1 class="text-3xl font-bold underline">
-    Hello world!
+  https://pramyagit.github.io/restaurant-website/
   </h1>
 </body>
   
