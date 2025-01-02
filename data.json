@@ -1,0 +1,48 @@
+[
+  {
+    "picture": "./image/food-712665_1280.jpg",
+    "name": "food item",
+    "item": "chicken slice",
+    "id": "1",
+    "description": "food is good very delicious....healthy food.",
+    "price": "250"
+  },
+  {
+    "picture": "./image/meal-7707134_1280.jpg",
+    "name": "food item",
+    "item": "Bread Rost",
+    "id": "2",
+    "description": "food is good very delicious....healthy food.",
+    "price": "300"
+  },
+  {
+    "picture": "./image/pasta-1854245_1280.jpg",
+    "name": "food item",
+    "item": "Pazztha",
+    "id": "3",
+    "description": "food is good very delicious....healthy food.",
+    "price": "450"
+  },
+  {
+    "picture": "./image/teriyaki-5002781_1280.jpg",
+    "name": "food item",
+    "item": "Mushroom Gravy",
+    "id": "4",
+    "description": "food is good very delicious....healthy food.",
+    "price": "350"
+  },
+  {
+    "picture": "./image/food.jpg",
+    "item": "Roll-Cake",
+    "id": "5",
+    "description": "food is good very delicious....healthy food.",
+    "price": "150"
+  },
+  {
+    "picture": "./image/scallions-7849575_1280.jpg",
+    "item": "Macroni Fry",
+    "id": "6",
+    "description": "food is good very delicious....healthy food.",
+    "price": "350"
+  }
+]
